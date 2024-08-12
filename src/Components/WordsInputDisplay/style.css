@@ -1,0 +1,21 @@
+.text-display {
+    white-space: pre-wrap;
+    font-family: monospace;
+  }
+  
+  .char {
+    display: inline;
+  }
+  
+  .char.correct {
+    color: green;
+  }
+  
+  .char.incorrect {
+    color: red;
+  }
+  
+  .extra {
+    color: red;
+  }
+  
